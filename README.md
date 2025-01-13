@@ -1,6 +1,6 @@
 # name-pad: A Web Application for Managing Favourite First Names
 
-This project was developed as part of the *Web-Entwicklung* module at Hochschule Trier, where I received a grade of 2.3.
+This project was developed as part of the *Web-Entwicklung* module at Hochschule Trier, where I received a grade of **2.3**.
 
 ## Overview
 **name-pad** is a web application designed to help users search for, filter, and manage a list of favourite first names. The application provides a clean and user-friendly interface for browsing a comprehensive database of names, which can be filtered by various criteria. Users can save their favourite names to a personal notepad for prioritization or further management.
